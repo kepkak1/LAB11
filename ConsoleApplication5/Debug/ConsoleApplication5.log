@@ -1,0 +1,13 @@
+﻿  wektor.cpp
+c:\users\karolina\documents\visual studio 2015\projects\consoleapplication5\consoleapplication5\wektor.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\karolina\documents\visual studio 2015\projects\consoleapplication5\consoleapplication5\wektor.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\karolina\documents\visual studio 2015\projects\consoleapplication5\consoleapplication5\wektor.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\karolina\documents\visual studio 2015\projects\consoleapplication5\consoleapplication5\wektor.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\karolina\documents\visual studio 2015\projects\consoleapplication5\consoleapplication5\wektor.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\karolina\documents\visual studio 2015\projects\consoleapplication5\consoleapplication5\wektor.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\karolina\documents\visual studio 2015\projects\consoleapplication5\consoleapplication5\wektor.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\karolina\documents\visual studio 2015\projects\consoleapplication5\consoleapplication5\wektor.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\karolina\documents\visual studio 2015\projects\consoleapplication5\consoleapplication5\wektor.cpp(111): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication5.cpp
+  Generating Code...
+  ConsoleApplication5.vcxproj -> c:\users\karolina\documents\visual studio 2015\Projects\ConsoleApplication5\Debug\ConsoleApplication5.exe
